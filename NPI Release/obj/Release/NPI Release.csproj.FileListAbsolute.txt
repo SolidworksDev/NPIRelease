@@ -1,0 +1,21 @@
+C:\Users\tclift\Dev\NPI Release\NPI Release\bin\Release\NPI Release.exe.config
+C:\Users\tclift\Dev\NPI Release\NPI Release\bin\Release\NPI Release.exe
+C:\Users\tclift\Dev\NPI Release\NPI Release\bin\Release\NPI Release.pdb
+C:\Users\tclift\Dev\NPI Release\NPI Release\bin\Release\EPDM.Interop.epdm.dll
+C:\Users\tclift\Dev\NPI Release\NPI Release\obj\Release\NPI Release.csprojResolveAssemblyReference.cache
+C:\Users\tclift\Dev\NPI Release\NPI Release\obj\Release\NPI_Release.NPI_Release.resources
+C:\Users\tclift\Dev\NPI Release\NPI Release\obj\Release\NPI_Release.Properties.Resources.resources
+C:\Users\tclift\Dev\NPI Release\NPI Release\obj\Release\NPI Release.csproj.GenerateResource.Cache
+C:\Users\tclift\Dev\NPI Release\NPI Release\obj\Release\NPI Release.exe
+C:\Users\tclift\Dev\NPI Release\NPI Release\obj\Release\NPI Release.pdb
+C:\Users\tclift\Dev\NPI Release\NPI Release\obj\Release\NPI_Release.NPIReleaseAboutBox.resources
+C:\Users\tcs4fs\Dev\NPI Release\NPI Release\obj\Release\NPI Release.csprojResolveAssemblyReference.cache
+C:\Users\tcs4fs\Dev\NPI Release\NPI Release\obj\Release\NPI_Release.NPI_Release.resources
+C:\Users\tcs4fs\Dev\NPI Release\NPI Release\obj\Release\NPI_Release.NPIReleaseAboutBox.resources
+C:\Users\tcs4fs\Dev\NPI Release\NPI Release\obj\Release\NPI_Release.Properties.Resources.resources
+C:\Users\tcs4fs\Dev\NPI Release\NPI Release\obj\Release\NPI Release.csproj.GenerateResource.Cache
+C:\Users\tcs4fs\Dev\NPI Release\NPI Release\obj\Release\NPI Release.exe
+C:\Users\tcs4fs\Dev\NPI Release\NPI Release\obj\Release\NPI Release.pdb
+C:\Users\tcs4fs\Dev\NPI Release\NPI Release\bin\Release\NPI Release.exe.config
+C:\Users\tcs4fs\Dev\NPI Release\NPI Release\bin\Release\NPI Release.exe
+C:\Users\tcs4fs\Dev\NPI Release\NPI Release\bin\Release\NPI Release.pdb

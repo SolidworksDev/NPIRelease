@@ -1,0 +1,10 @@
+C:\Users\tclift\Dev\NPI Release\NPI Release\bin\Debug\NPI Release.exe.config
+C:\Users\tclift\Dev\NPI Release\NPI Release\obj\Debug\NPI Release.exe
+C:\Users\tclift\Dev\NPI Release\NPI Release\obj\Debug\NPI Release.pdb
+C:\Users\tclift\Dev\NPI Release\NPI Release\obj\Debug\NPI Release.csprojResolveAssemblyReference.cache
+C:\Users\tclift\Dev\NPI Release\NPI Release\obj\Debug\NPI_Release.NPI_Release.resources
+C:\Users\tclift\Dev\NPI Release\NPI Release\obj\Debug\NPI_Release.Properties.Resources.resources
+C:\Users\tclift\Dev\NPI Release\NPI Release\obj\Debug\NPI Release.csproj.GenerateResource.Cache
+C:\Users\tclift\Dev\NPI Release\NPI Release\bin\Debug\NPI Release.exe
+C:\Users\tclift\Dev\NPI Release\NPI Release\bin\Debug\NPI Release.pdb
+C:\Users\tclift\Dev\NPI Release\NPI Release\bin\Debug\EPDM.Interop.epdm.dll
